@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://codeforces.com/profile/eta">
-    <img src="https://img.shields.io/badge/Codeforces-eta-1f8acb?style=flat-square&logo=codeforces" alt="Codeforces">
+    <img src="https://img.shields.io/badge/Codeforces-1ota-1f8acb?style=flat-square&logo=codeforces" alt="Codeforces">
   </a>
   <a href="https://atcoder.jp/users/iwta">
     <img src="https://img.shields.io/badge/AtCoder-iwta-222222?style=flat-square&logo=atcoder" alt="AtCoder">
@@ -29,7 +29,7 @@
 
 I mostly solve problems on **Codeforces** and **AtCoder** these days.
 <p align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=eta" alt="Codeforces statistics">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=1ota" alt="Codeforces statistics">
 </p>
 
 ---
