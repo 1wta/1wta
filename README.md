@@ -29,7 +29,9 @@
 
 I mostly solve problems on **Codeforces** and **AtCoder** these days.
 <p align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=1ota&theme=dark" alt="Codeforces statistics">
+  <a href="https://codeforces.com/profile/1ota">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=1ota&theme=dark" alt="Codeforces statistics">
+  </a>
 </p>
 
 ---
