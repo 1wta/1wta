@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <a href="https://codeforces.com/profile/eta">
+  <a href="https://codeforces.com/profile/1ota">
     <img src="https://img.shields.io/badge/Codeforces-1ota-1f8acb?style=flat-square&logo=codeforces" alt="Codeforces">
   </a>
   <a href="https://atcoder.jp/users/iwta">
