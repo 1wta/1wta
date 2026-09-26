@@ -24,6 +24,7 @@
 
 - **INOI 2026  Bronze Medalist**
 - **APIO 2026 Participant**
+- **INMO 2025 Qualifier**
 
 ###  Competitive Programming
 
